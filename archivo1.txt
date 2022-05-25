@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-Estoy modificando
-Estoy modificando nuevamente el archivo
-Para que me tire un error
-=======
-Estoy modificando este archivo por segunda vez. Veamos el resultado. 
->>>>>>> c0da1a9700475f5cb97b8bf421e847747e0a1448
